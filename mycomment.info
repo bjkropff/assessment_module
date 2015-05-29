@@ -1,4 +1,4 @@
-name =  Comment Remove
+name =  Comment Remover
 description = This will remove the subject field in the comment form
 package = Epicodus Examples
 core = 7.x
